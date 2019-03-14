@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Calendar
+GenericName=Simple Calendar And Notes
+Comment=Simple Calendar and notes
+Categories=Utility;
+Exec=com.github.ccm27.calendar
+Icon=com.github.ccm27.calendar.icon.png
+Terminal=false
+Type=Application
+Keywords=Calendar;Notes;Image;

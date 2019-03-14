@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Christopher Mayes <ccm@jma.com> -->
+<component type="desktop">
+  <id>com.github.ccm27.calendar</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Calendar</name>
+  <summary>Perfect Calendar Widget</summary>
+  <description>
+    <p>Have you ever wanted a calendar widget so that you would not forget the day, and have you ever wanted a notes widget alongside the calendar that you can write notes about each day??? This is it.... This is your life, for $1</p>
+  </description>
+	 <custom>
+     <value key="x-appcenter-color-primary">#603461</value>
+     <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+     <value key="x-appcenter-suggested-price">1</value>
+  </custom>
+</component>
